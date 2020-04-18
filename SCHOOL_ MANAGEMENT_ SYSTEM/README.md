@@ -3,7 +3,7 @@
 To design a database to maintain information about school staff and students satisfying the following properties: 
 
 
-##**A. Enrollment System**
+**##A. Enrollment System**
 
 •	Departments will have their names, buildings, budgets, and balances.
 
@@ -22,7 +22,7 @@ To design a database to maintain information about school staff and students sat
 •	A table recording the dynamic enrollment process, including the sections, their capacities, and numbers of spots left currently.
 
 
-##**B. Financial System**
+**##B. Financial System**
 
 •	A table recording the tuition information, including students, their payment amounts, and time of payment.
 
