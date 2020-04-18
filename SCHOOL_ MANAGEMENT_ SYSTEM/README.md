@@ -1,5 +1,8 @@
 # School Management System Database
 
+
+## Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.
+
 To design a database to maintain information about school staff and students satisfying the following properties: 
 
 
@@ -34,6 +37,3 @@ To design a database to maintain information about school staff and students sat
 
 •	A table recording account balances of instructors. Current balance is calculated by the previous balance and the amount of money paid by the department or the amount withdrawn by the instructor him/herself.
 
-
-
-***Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.**
