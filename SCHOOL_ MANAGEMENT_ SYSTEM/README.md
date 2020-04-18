@@ -21,7 +21,7 @@ To design a database to maintain information about school staff and students sat
 
 - A table recording the enrollment information, including students and sections they take, their grades of homework, midterms, projects, and so on. Notice that students could only take courses offered this year, they could only enroll when the capacity is not full, they cannot enroll in sections repeatedly, and there should not be time conflict of sections enrolled.
 
-•	A table recording the dynamic enrollment process, including the sections, their capacities, and numbers of spots left currently.
+- A table recording the dynamic enrollment process, including the sections, their capacities, and numbers of spots left currently.
 
 
 **B. Financial System**
