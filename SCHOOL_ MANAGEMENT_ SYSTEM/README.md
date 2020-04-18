@@ -1,7 +1,8 @@
 # School Management System Database
 
 
-## Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.
+***Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.**
+
 
 To design a database to maintain information about school staff and students satisfying the following properties: 
 
