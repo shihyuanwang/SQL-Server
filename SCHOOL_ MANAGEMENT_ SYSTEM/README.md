@@ -33,3 +33,7 @@ To design a database to maintain information about school staff and students sat
 •	A table recording the salary payment information, including instructors and their paid salary amounts. An instructor’s salary is calculated by the courses he/she teaches this quarter, their titles (Professor, Associate Professor or Assistant Professor), and their years of service.
 
 •	A table recording account balances of instructors. Current balance is calculated by the previous balance and the amount of money paid by the department or the amount withdrawn by the instructor him/herself.
+
+
+
+* Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.
