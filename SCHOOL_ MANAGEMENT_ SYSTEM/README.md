@@ -5,7 +5,7 @@ To design a database to maintain information about school staff and students sat
 
 **A. Enrollment System**
 
-•	Departments will have their names, buildings, budgets, and balances.
+-•	Departments will have their names, buildings, budgets, and balances.
 
 •	Instructors will have their names, genders, departments, and other basic information.
 
@@ -24,7 +24,7 @@ To design a database to maintain information about school staff and students sat
 
 **B. Financial System**
 
-•	A table recording the tuition information, including students, their payment amounts, and time of payment.
+-•	A table recording the tuition information, including students, their payment amounts, and time of payment.
 
 •	An audit table recording all the changes of tuition table.
 
@@ -36,4 +36,4 @@ To design a database to maintain information about school staff and students sat
 
 
 
-* Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.
+**Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.**
