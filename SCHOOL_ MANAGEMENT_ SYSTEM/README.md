@@ -1,4 +1,4 @@
-# School Management System Database
+# School Management System Database Design
 
 ***Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.**
 ---
