@@ -36,3 +36,7 @@ To design a database to maintain information about school staff and students sat
 
 - A table recording account balances of instructors. Current balance is calculated by the previous balance and the amount of money paid by the department or the amount withdrawn by the instructor him/herself.
 
+
+---------------------------------------------------------------
+
+Co-authored by: XIAOZHU ZHANG
