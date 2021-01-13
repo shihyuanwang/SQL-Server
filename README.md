@@ -39,4 +39,4 @@ To design a database to maintain information about school staff and students sat
 
 ---------------------------------------------------------------
 
-Co-authored-by: XIAOZHU ZHANG
+Co-authored by: XIAOZHU ZHANG
