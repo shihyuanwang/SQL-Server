@@ -1,6 +1,8 @@
 # School Management System Database Design
 
 ***Please refer to the file "SCHOOL_ MANAGEMENT_ SYSTEM_IDEA" for more information.**
+https://github.com/shihyuanwang/School_Management_System_Database/blob/master/SCHOOL_%20MANAGEMENT_%20SYSTEM_IDEA.pdf
+
 ---
 
 To design a database to maintain information about school staff and students satisfying the following properties: 
